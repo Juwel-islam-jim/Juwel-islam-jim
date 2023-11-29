@@ -1,7 +1,6 @@
-<img
-  class="fit-picture"
-  src="[/media/cc0-images/grapefruit-slice-332-332.jpg](https://media.licdn.com/dms/image/D4E16AQGT4g1mvFO3xw/profile-displaybackgroundimage-shrink_350_1400/0/1700630591336?e=1706745600&v=beta&t=-RNaqI-lmvpi8liX88_okTui2HkCo60gYUL9r-eQ2eE)"
-  alt="juwel islam jim" />
+
+![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D4E16AQGT4g1mvFO3xw/profile-displaybackgroundimage-shrink_350_1400/0/1700630591336?e=1706745600&v=beta&t=-RNaqI-lmvpi8liX88_okTui2HkCo60gYUL9r-eQ2eE)
+
 <h1 align="center">Hi 👋, I'm Juwel islam jim</h1>
 <h3 align="center">Laravel Developer/ Web Developer/ Backend Developer</h3>
 
